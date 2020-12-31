@@ -1,0 +1,25 @@
+{
+    "devDependencies": {
+      "@fitbit/sdk": "~4.2.0"
+    },
+    "fitbit": {
+      "appUUID": "21b2ea29-ce67-42bf-a9dc-6008187f56b1",
+      "appType": "clockface",
+      "appDisplayName": "ColorChanging",
+      "iconFile": "resources/icon.png",
+      "wipeColor": "",
+      "requestedPermissions": [],
+      "buildTargets": [
+        "mira",
+        "gemini",
+        "meson",
+        "higgs"
+      ],
+      "i18n": {
+        "en-US": {
+          "name": "ColorChanging"
+        }
+      },
+      "defaultLanguage": "en-US"
+    }
+  }
